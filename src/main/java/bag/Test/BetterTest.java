@@ -23,5 +23,6 @@ public class BetterTest {
         boxes.add(new Box1());
         System.out.println(boxes.size());
 
+
     }
 }
